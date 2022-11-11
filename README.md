@@ -1,2 +1,5 @@
 # simple_shell
-The unix shell
+### ALX Software Engineering Simple Shell Project  
+
+
+ A simple UNIX command interpreter by **Awe Elizabeth** and **Akinyele Ebenezer**
